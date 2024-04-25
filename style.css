@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+.portfolio {
+}
+
+a {
+  text-decoration: none;
+  color: black;
+
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 2px;
+}
